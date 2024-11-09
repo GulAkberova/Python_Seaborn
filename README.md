@@ -80,3 +80,5 @@ This README contains examples of various Seaborn plot types along with the code 
 - **scale**: Defines the scaling of the data in the violin plot.
 - **marker**: Specifies the marker symbol for data points.
 
+
+![Screenshot 2024-11-09 132947](https://github.com/user-attachments/assets/f73db0a6-3293-4d06-b023-30be7d9212c0)
